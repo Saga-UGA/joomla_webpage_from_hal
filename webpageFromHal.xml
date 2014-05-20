@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<extension version="2.5" type="plugin" group="content">
+  <name>Webpage from HAL</name>
+  <author>Jerome Zeiliger</author>
+  <creationDate>19/05/2014</creationDate>
+  <copyright>SAGA</copyright>
+  <license>CeCILL</license>
+  <version>1.0</version>
+  <description>Plugin to include an html list of publications from Hal, directly in a page of a website</description>
+  <files>
+    <filename plugin="webpagefromhal">webpageFromHal.php</filename>
+    <filename>index.html</filename>
+  </files>
+</extension>
